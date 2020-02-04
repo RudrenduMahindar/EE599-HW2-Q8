@@ -1,0 +1,2 @@
+# EE599-HW2-Q8
+Write a function that: ● Finds the median value of the vector (the vector is not sorted) ● It then rearranges the vector in such a way that it will have all the values lower than the median on the left side in ascending order starting from the median and all the greater than the median value on the right side in descending order starting from the median. Example: ● Input: {637, 231, 123, 43, 69, 43, 900, 10, 7, 21, 99, 0, 500} ● Output:{ 43, 43, 21,10, 7, 0, 69, 900, 637, 500, 231, 123, 99 }
